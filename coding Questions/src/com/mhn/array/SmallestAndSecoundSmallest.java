@@ -1,12 +1,11 @@
 package com.mhn.array;
 
-import java.awt.SecondaryLoop;
 import java.util.Arrays;
 
 public class SmallestAndSecoundSmallest {
 	public static void main(String[] args) {
 
-		getSmallestAndSecoundSmallest(new int[] { 0,2,4,5,2,4,8,73,1,12,32 });
+		getSmallestAndSecoundSmallest(new int[] { 0, 2, 4, 5, 2, 4, 8, 73, 1, 12, 32 });
 	}
 
 	private static void getSmallestAndSecoundSmallest(int[] num) {
